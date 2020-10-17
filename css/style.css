@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background: white;
+}
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #7003df;
+    padding: 20px;
+}
+h1{
+    margin: 0;
+    color: aqua;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    line-height: 30px;
+    color: azure;
+    font-size: 21px;
+}
+img{
+    max-width: 100%;
+}
+.banner{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+strong{
+    color: white;
+}
